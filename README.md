@@ -1,4 +1,4 @@
 # AIPND-Project2
 Image classifier project
 
-This is my code for review by Udacity mentors. It's a copy of what's running on my local machine. 
+This is my code for review by Udacity mentors. It's a copy of what's running on my local machine. This was only used for review purposes. 
